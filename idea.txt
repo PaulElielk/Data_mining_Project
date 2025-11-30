@@ -1,0 +1,2 @@
+1.filter by brand name etc
+2. add a search bar 

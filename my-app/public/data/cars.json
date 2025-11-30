@@ -1,0 +1,99 @@
+[
+  {
+    "id": "1",
+    "name": "Tesla Model 3",
+    "description": "Electric sedan with Autopilot capabilities, impressive range, and cutting-edge technology. Features a minimalist interior with a 15-inch touchscreen display and over-the-air updates.",
+    "price": 38990,
+    "imageUrl": "https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=500&h=500&fit=crop",
+    "brand": "Tesla",
+    "engine": "Electric",
+    "color": "Pearl White",
+    "range": "358 miles",
+    "acceleration": "0-60 mph in 4.2 seconds"
+  },
+  {
+    "id": "2",
+    "name": "BMW i4 M50",
+    "description": "High-performance electric sedan with BMW's signature driving dynamics. Features a 536-horsepower dual-motor setup, 300-mile range, and luxurious interior with the latest iDrive system.",
+    "price": 67900,
+    "imageUrl": "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=500&h=500&fit=crop",
+    "brand": "BMW",
+    "engine": "Electric",
+    "color": "Mineral White",
+    "range": "300 miles",
+    "acceleration": "0-60 mph in 3.7 seconds"
+  },
+  {
+    "id": "3",
+    "name": "Mercedes-Benz E-Class",
+    "description": "Luxury sedan combining elegance with advanced technology. Features MBUX infotainment system, driver assistance features, and a choice of powerful engines including hybrid options.",
+    "price": 54900,
+    "imageUrl": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=500&h=500&fit=crop",
+    "brand": "Mercedes-Benz",
+    "engine": "2.0L Turbo I4 / Hybrid",
+    "color": "Obsidian Black",
+    "range": "N/A",
+    "acceleration": "0-60 mph in 5.5 seconds"
+  },
+  {
+    "id": "4",
+    "name": "Audi A6",
+    "description": "Premium executive sedan with quattro all-wheel drive, virtual cockpit, and sophisticated design. Features advanced driver assistance systems and a refined interior with premium materials.",
+    "price": 54900,
+    "imageUrl": "https://images.unsplash.com/photo-1606664515524-ed2f786a0ad6?w=500&h=500&fit=crop",
+    "brand": "Audi",
+    "engine": "2.0L Turbo I4",
+    "color": "Daytona Gray",
+    "range": "N/A",
+    "acceleration": "0-60 mph in 5.8 seconds"
+  },
+  {
+    "id": "5",
+    "name": "Porsche Taycan",
+    "description": "All-electric sports sedan with exceptional performance and Porsche's legendary driving dynamics. Features up to 750 horsepower, 800-volt architecture for fast charging, and track-ready capabilities.",
+    "price": 89900,
+    "imageUrl": "https://images.unsplash.com/photo-1606664515524-ed2f786a0ad6?w=500&h=500&fit=crop",
+    "brand": "Porsche",
+    "engine": "Electric",
+    "color": "Frozen Blue",
+    "range": "201-227 miles",
+    "acceleration": "0-60 mph in 2.6 seconds"
+  },
+  {
+    "id": "6",
+    "name": "Ford Mustang Mach-E",
+    "description": "All-electric SUV with Mustang heritage and impressive performance. Features extended range battery options, BlueCruise hands-free driving, and a spacious interior with modern technology.",
+    "price": 42895,
+    "imageUrl": "https://images.unsplash.com/photo-1606664515524-ed2f786a0ad6?w=500&h=500&fit=crop",
+    "brand": "Ford",
+    "engine": "Electric",
+    "color": "Grabber Blue",
+    "range": "312 miles",
+    "acceleration": "0-60 mph in 3.5 seconds"
+  },
+  {
+    "id": "7",
+    "name": "Toyota Camry Hybrid",
+    "description": "Reliable and fuel-efficient sedan with hybrid powertrain. Features Toyota Safety Sense 2.5+, comfortable interior, and excellent fuel economy. Perfect for daily commuting and long trips.",
+    "price": 28270,
+    "imageUrl": "https://images.unsplash.com/photo-1606664515524-ed2f786a0ad6?w=500&h=500&fit=crop",
+    "brand": "Toyota",
+    "engine": "2.5L Hybrid",
+    "color": "Midnight Black",
+    "range": "N/A",
+    "acceleration": "0-60 mph in 7.9 seconds"
+  },
+  {
+    "id": "8",
+    "name": "Honda Accord Hybrid",
+    "description": "Spacious and efficient sedan with Honda's advanced hybrid system. Features Honda Sensing safety suite, premium interior, and excellent reliability. Great value for a midsize sedan.",
+    "price": 27270,
+    "imageUrl": "https://images.unsplash.com/photo-1606664515524-ed2f786a0ad6?w=500&h=500&fit=crop",
+    "brand": "Honda",
+    "engine": "2.0L Hybrid",
+    "color": "Platinum White",
+    "range": "N/A",
+    "acceleration": "0-60 mph in 7.2 seconds"
+  }
+]
+

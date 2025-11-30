@@ -1,0 +1,99 @@
+[
+  {
+    "id": "1",
+    "name": "iPhone 15 Pro",
+    "description": "The latest iPhone with A17 Pro chip, Titanium design, and advanced camera system. Features a 6.1-inch Super Retina XDR display, 48MP main camera, and all-day battery life.",
+    "price": 999,
+    "imageUrl": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=500&h=500&fit=crop",
+    "brand": "Apple",
+    "storage": "128GB",
+    "color": "Natural Titanium",
+    "screenSize": "6.1 inches",
+    "battery": "Up to 23 hours video playback"
+  },
+  {
+    "id": "2",
+    "name": "Samsung Galaxy S24 Ultra",
+    "description": "Flagship Android phone with Snapdragon 8 Gen 3, 200MP camera, and S Pen support. Features a 6.8-inch Dynamic AMOLED 2X display with 120Hz refresh rate.",
+    "price": 1199,
+    "imageUrl": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=500&h=500&fit=crop",
+    "brand": "Samsung",
+    "storage": "256GB",
+    "color": "Titanium Black",
+    "screenSize": "6.8 inches",
+    "battery": "5000mAh, All-day battery"
+  },
+  {
+    "id": "3",
+    "name": "Google Pixel 8 Pro",
+    "description": "AI-powered smartphone with Tensor G3 chip, exceptional camera capabilities, and pure Android experience. Features a 6.7-inch LTPO OLED display.",
+    "price": 899,
+    "imageUrl": "https://images.unsplash.com/photo-1574944985070-8f3ebc6b79d2?w=500&h=500&fit=crop",
+    "brand": "Google",
+    "storage": "128GB",
+    "color": "Obsidian",
+    "screenSize": "6.7 inches",
+    "battery": "5050mAh, 30W fast charging"
+  },
+  {
+    "id": "4",
+    "name": "OnePlus 12",
+    "description": "Flagship killer with Snapdragon 8 Gen 3, 50W wireless charging, and Hasselblad camera system. Features a 6.82-inch LTPO AMOLED display with 120Hz.",
+    "price": 799,
+    "imageUrl": "https://images.unsplash.com/photo-1556656793-08538906a9f8?w=500&h=500&fit=crop",
+    "brand": "OnePlus",
+    "storage": "256GB",
+    "color": "Silky Black",
+    "screenSize": "6.82 inches",
+    "battery": "5400mAh, 100W fast charging"
+  },
+  {
+    "id": "5",
+    "name": "Xiaomi 14 Pro",
+    "description": "Premium Android device with Snapdragon 8 Gen 3, Leica camera partnership, and hypercharge technology. Features a 6.73-inch LTPO AMOLED curved display.",
+    "price": 899,
+    "imageUrl": "https://images.unsplash.com/photo-1580910051074-3eb694886505?w=500&h=500&fit=crop",
+    "brand": "Xiaomi",
+    "storage": "512GB",
+    "color": "Black",
+    "screenSize": "6.73 inches",
+    "battery": "4880mAh, 120W fast charging"
+  },
+  {
+    "id": "6",
+    "name": "Sony Xperia 1 V",
+    "description": "Professional-grade smartphone with 4K OLED display, Alpha camera technology, and headphone jack. Perfect for content creators and photographers.",
+    "price": 1399,
+    "imageUrl": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=500&h=500&fit=crop",
+    "brand": "Sony",
+    "storage": "256GB",
+    "color": "Black",
+    "screenSize": "6.5 inches (4K)",
+    "battery": "5000mAh"
+  },
+  {
+    "id": "7",
+    "name": "Nothing Phone (2)",
+    "description": "Unique transparent design with Glyph interface, Snapdragon 8+ Gen 1, and clean Nothing OS. Features a 6.7-inch LTPO OLED display.",
+    "price": 599,
+    "imageUrl": "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?w=500&h=500&fit=crop",
+    "brand": "Nothing",
+    "storage": "128GB",
+    "color": "White",
+    "screenSize": "6.7 inches",
+    "battery": "4700mAh, 45W fast charging"
+  },
+  {
+    "id": "8",
+    "name": "Motorola Edge 40 Pro",
+    "description": "Premium Motorola device with Snapdragon 8 Gen 2, 165Hz display, and 125W TurboPower charging. Features a 6.67-inch pOLED display.",
+    "price": 699,
+    "imageUrl": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=500&h=500&fit=crop",
+    "brand": "Motorola",
+    "storage": "256GB",
+    "color": "Interstellar Black",
+    "screenSize": "6.67 inches",
+    "battery": "4600mAh, 125W fast charging"
+  }
+]
+
